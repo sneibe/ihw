@@ -216,7 +216,7 @@ INSERT INTO person
 INSERT INTO person 
 	VALUES (seqpersonid.NEXTVAL,'Sheila','Lim');
 INSERT INTO person 
-	VALUES (seqpersonid.NEXTVAL,'Miko','Marc');
+	VALUES (seqpersonid.NEXTVAL,'Marc','Magno');
 INSERT INTO person 
 	VALUES (seqpersonid.NEXTVAL,'Rachel','Guiterrez');
 INSERT INTO person 
